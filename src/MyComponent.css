@@ -1,20 +1,15 @@
 .my-component {
-  font-family: Arial, sans-serif;
+  background-color: lightblue;
   padding: 20px;
-  background-color: #f0f8ff;
-  border-radius: 8px;
-  max-width: 600px;
-  margin: 40px auto;
+  border: 1px solid blue;
+  border-radius: 5px;
   text-align: center;
 }
 
 .my-component h1 {
-  color: #333333;
-  font-size: 2rem;
+  color: navy;
 }
 
 .my-component p {
-  color: #666666;
-  font-size: 1rem;
-  line-height: 1.6;
+  font-size: 16px;
 }

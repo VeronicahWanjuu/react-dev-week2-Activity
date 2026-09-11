@@ -1,4 +1,4 @@
-import './MyComponent.css';
+import '../MyComponent.css';
 
 function MyComponent() {
   return (
